@@ -1,0 +1,20 @@
+{
+  "stable": null,
+  "beta": {
+    "versionCode": 101,
+    "versionName": "0.2.0",
+    "mandatory": false,
+    "changelog": "Version 0.2.0",
+    "sha256": "28f97540e8569e3bf720ab09631af6a3f34f2ec7ec6981f05cdb32268f0abee5",
+    "apkUrl": "https://github.com/ajayautade/autade-releases/releases/download/v0.2.0/autade-STORE001-0.2.0.apk"
+  },
+  "config": {
+    "allowedDeviceIds": [],
+    "disabledUsers": [],
+    "featureFlags": {
+      "barcode": false,
+      "cloudSync": true
+    },
+    "maxDiscountPercent": 10
+  }
+}
